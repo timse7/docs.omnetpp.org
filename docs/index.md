@@ -14,6 +14,9 @@ tutorial](tutorials/tictoc/index.md) and various technical articles.
   tutorial walks you through the initial steps of analyzing simulation results
   using Python, Pandas and Matplotlib, and helps you with some of the most
   common tasks.
+- [An Introduction to OMNeT++ 6.0](https://www.slideshare.net/christian.timmerer/an-introduction-to-omnet-60).
+  A set of slides provided by [Christian Timmerer](https://multimediacommunication.blogspot.com/)
+  covering OMNeT++ 6.0 based on TicToc and others.
 
 ## Selected Technical Articles
 
